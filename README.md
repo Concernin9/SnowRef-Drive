@@ -30,7 +30,7 @@
 > ❄️ It provides **118,200 pixel-level annotated frames** with compositional referring instructions to benchmark segmentation robustness under snow degradation.
 
 <p align="center">
-📄 <b>Paper:</b> Under Review &nbsp;&nbsp;&nbsp; 📦 <b>Dataset & Code:</b> Will be released prior to submission in compliance with journal policies
+📄 <b>Paper:</b> Under Review &nbsp;&nbsp;&nbsp; 📦 <b>Dataset & Code:</b> Will be released prior to submission in compliance
 </p>
 
 
