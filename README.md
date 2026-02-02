@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  ❄️ Winter Driving &nbsp;|&nbsp; 🚗 Traffic Video Segmentation &nbsp;|&nbsp; 🧠 Instruction-Driven Perception  
+  ❄️ Winter Driving &nbsp;|&nbsp; 🚗 Traffic Video Segmentation &nbsp;|&nbsp; 📝 Instruction-Driven Perception  
 </p>
 
 ---
