@@ -30,8 +30,9 @@
 > ❄️ It provides **118,200 pixel-level annotated frames** with compositional referring instructions to benchmark segmentation robustness under snow degradation.
 
 <p align="center">
-📄 <b>Paper:</b> Under Review &nbsp;&nbsp;&nbsp; 📦 <b>Dataset & Code:</b> Will be released prior to submission in compliance
+📄 <b>Paper:</b> Under Review &nbsp;&nbsp;&nbsp; 📦 <b>Dataset:</b> Available for download &nbsp;&nbsp;&nbsp; 💻 <b>Code:</b> Available in this repo
 </p>
+
 
 
 ---
@@ -58,6 +59,39 @@ Each sample contains:
 - 🌎 **3 continents** (North America · Europe · East Asia)
 
 ---
+
+
+
+## 📥❄️ Dataset Download
+
+The SnowRef-Drive dataset is hosted on **Tsinghua Cloud Drive**:
+
+- 🔗 Download link: https://cloud.tsinghua.edu.cn/d/4c42e0c7be4a4439ae00/
+
+We provide multiple archives:
+
+- `img-1.zip` (RGB frames, part 1)  
+- `img-2.zip` (RGB frames, part 2)  
+- `img-3.zip` (RGB frames, part 3)  
+- `mask.zip`  (pixel masks)  
+- `txt.zip`   (instructions)
+
+After downloading, unzip all files into the same root folder.
+
+**Naming convention**
+
+- Images: `img_XXXXXX_y.jpg`  (`y` = 0..5)  
+- Masks : `mask_XXXXXX_y.png` (`y` = 0..5)  
+- Text  : `txt_XXXXXX.txt`
+
+
+---
+
+
+
+
+
+
 
 ## 🌍❄️ Global Winter Coverage
 
@@ -164,17 +198,15 @@ It is especially suitable for:
 
 ---
 
-## 📦❄️ Dataset & Code Release Plan
+## 📦❄️ Data Availability & Updates
 
-⚠️ **Important Notice**
 
-This repository currently serves as the **official project homepage for peer review**.
+- 📦 **Dataset:** Available now via Tsinghua Cloud Drive (see “Dataset Download”).  
+- 💻 **Code:** Available in this repository (`code/`).  
+- 🔁 **Updates:** Mirrors, checksums, and extended documentation will be added during review and before final publication.
 
-- 📦 Dataset: **Will be released prior to submission** in compliance with journal data policies  
-- 💻 Code: **Will be released prior to submission**, including dataset loaders and evaluation scripts  
-- 🧊 Download mirrors, checksums, and documentation will be provided together  
+This repository serves as the official project homepage for the review process.
 
-We strictly follow journal data and code release requirements.
 
 ---
 
