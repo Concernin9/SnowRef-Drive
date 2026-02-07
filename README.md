@@ -176,6 +176,20 @@ This repository currently serves as the **official project homepage for peer rev
 
 We strictly follow journal data and code release requirements.
 
+---
+
+## 🧰❄️ Code Utilities (Preprocessing / QC / Visualization)
+
+We provide several lightweight scripts under `code/` for dataset preprocessing, quality checking, and visualization.  
+Most scripts assume the following naming convention:
+
+- Images: `img_XXXXXX_y.jpg`  (y ∈ {0..5})
+- Masks : `mask_XXXXXX_y.png` (y ∈ {0..5})
+- Text  : `txt_XXXXXX.txt`
+
+> ✨ Replace `XXXXXX` paths in the examples below with your local directories.
+
+
 
 ---
 
